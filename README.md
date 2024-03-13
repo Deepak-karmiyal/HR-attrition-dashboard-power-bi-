@@ -1,4 +1,6 @@
 # HR Attrition dashboard
+![image](https://github.com/Deepak-karmiyal/HR-attrition-dashboard-power-bi-/assets/139327222/0bcae917-fd16-4159-b93b-51600dc6d279)
+
 
 * The Power BI dashboard for HR analytics provides a comprehensive report of employee data, allowing businesses to identify trends in employee behavior.
   
