@@ -11,7 +11,7 @@
   
 # Problem Statement:
 
-* Build a HR dashboard in tableau to track and analyze attrition in an organization
+* Build a HR dashboard in power bi to track and analyze attrition in an organization
 
   
 # Tools Used:
