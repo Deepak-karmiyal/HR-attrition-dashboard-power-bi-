@@ -17,4 +17,4 @@
 # Tools Used:
 
   POWER BI
-![HR data dashboard power bi](https://github.com/user-attachments/assets/eb330496-4348-47c1-802e-774f76eb514a)
+
